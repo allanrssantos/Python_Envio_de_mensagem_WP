@@ -10,7 +10,7 @@
 
 - Primeiro passo é estabelecer a comunicação do Selenium com o navegador e isso é feito através do aqruivo `chromedriver.exe`, o arquivo `chromedriver.exe` deve ser movido para o caminho `C:\Python310\Scripts`.
 
-- O segundo passo é criar o arquivo excel `Enviar.xlsx`, o arquivo deverá seguir a estrutura da tabela abaixo:
+- O segundo passo é criar o arquivo excel `Enviar.xlsx`, o arquivo deverá seguir a estrutura da tabela abaixo e deve ser salvo na pasta raiz do projeto.
 
 | Pessoa | Número | Mensagem |
 | --- | --- | --- |
