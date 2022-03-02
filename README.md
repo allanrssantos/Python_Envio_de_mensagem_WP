@@ -1,6 +1,7 @@
 # Python_Envio_de_mensagem_WP
 
 - **Projeto para fins acadêmicos o uso de forma comercial é de sua responsabilidade e como consequência seu número telefônico pode ser bloqueado de forma definitiva pelo WhatsApp.**
+- Projeto desenvolvido em Python utilizando as bibliotecas: Pandas, Selenium, Time, Urllib e Ipython.
 
 ## Instalando as dependências do projeto.
 
