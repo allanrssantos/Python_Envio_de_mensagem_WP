@@ -5,7 +5,7 @@
 
 ## Instalando as dependências do projeto.
 
-- Para instalar as dependêcias do projeto execute o comando: `pip intall -r requirements.txt`.
+- Para instalar as dependêcias do projeto execute o comando: `pip install -r requirements.txt`.
 
 ## Configurações gerais.
 
